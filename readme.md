@@ -14,7 +14,6 @@ Project built in order to increase my portfolio and experience.
 
 -HTML
 -CSS
--Git e GitHub
 
 ## 💌 Contact
 
