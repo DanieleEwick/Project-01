@@ -12,8 +12,8 @@ Project built in order to increase my portfolio and experience.
 
 ## 🛠Technologies
 
--HTML
--CSS
+- HTML
+- CSS
 
 ## 💌 Contact
 
